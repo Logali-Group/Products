@@ -27,4 +27,5 @@ builder:
     - name: webide-extension-task-resources
       afterTask: webide-extension-task-lint
       configuration:
+     
         nameSpace: logaligroup
